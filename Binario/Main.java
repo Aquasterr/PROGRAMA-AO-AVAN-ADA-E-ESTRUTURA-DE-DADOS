@@ -16,5 +16,6 @@ public class Main {
         p.MostraAoContrario();
         System.out.println(" \n NORMAL");
         p.Mostra();
+        System.out.println("A pilha p tem " + p.conta() + " elementos");
     }
 }
